@@ -1,0 +1,201 @@
+cliente_key,nombre,total_compras,gasto_total,cluster,segmento
+1,Eduardo Santiago Sevilla Terán,43,30615.08,2,Premium
+2,Arcelia Antonia Verduzco Murillo,35,26532.22,2,Premium
+3,Luis Rico,34,23397.0,0,Frecuente
+4,Jorge Luis Israel Morales Merino,23,17432.74,1,Ocasional
+5,Sra. Indira Osorio,19,11414.67,1,Ocasional
+6,Gonzalo Linares,29,24597.35,0,Frecuente
+7,Gerardo Brito Mercado,22,18262.89,0,Frecuente
+8,Eloy Quiñones,41,23928.17,0,Frecuente
+9,Ing. Jaime Acuña,33,24723.54,0,Frecuente
+10,Araceli Hernádez,31,20362.91,0,Frecuente
+11,María José Toro,32,21361.78,0,Frecuente
+12,Gabino Germán Caldera,29,20062.34,0,Frecuente
+13,Aldonza Santillán,31,22483.84,0,Frecuente
+14,Raquel Ana Grijalva,26,22498.04,0,Frecuente
+15,Elias Contreras,35,21373.31,0,Frecuente
+16,Felipe Mora,38,21468.13,0,Frecuente
+17,Humberto Zúñiga Otero,23,12769.91,1,Ocasional
+18,Elias Emilio Rodrígez Gallegos,41,27424.16,2,Premium
+19,José Eduardo Mascareñas Quiroz,23,14751.3,1,Ocasional
+20,Israel Bernardo Marrero Granado,21,17113.72,1,Ocasional
+21,Bernabé Jaime Sauceda,30,21651.59,0,Frecuente
+22,Sr. Eduardo Prieto,34,24493.58,0,Frecuente
+23,René Jonás Becerra Rodríguez,30,22289.77,0,Frecuente
+24,Nadia Córdova Rocha,29,22446.52,0,Frecuente
+25,Hilda Luz Ortiz,38,29585.78,2,Premium
+26,Cecilia Aponte,31,18487.59,0,Frecuente
+27,Sr. Jacobo Galindo,47,33981.13,2,Premium
+28,Lucía Perla Almonte Córdova,35,20859.02,0,Frecuente
+29,Teresa Yolanda Barreto,44,35119.22,2,Premium
+30,Srita. Paola Ochoa,30,23348.7,0,Frecuente
+31,Ivonne Nelly Sarabia Uribe,28,16505.44,1,Ocasional
+32,Ilse Olivas Vargas,40,28069.2,2,Premium
+33,Jesús Salinas,33,21496.19,0,Frecuente
+34,Gabriela Ocasio,37,27189.62,2,Premium
+35,Reina del Valle Lerma,28,17103.72,1,Ocasional
+36,Asunción Lucía Avilés Merino,25,18362.46,0,Frecuente
+37,Débora Eugenia Alvarado,20,13971.77,1,Ocasional
+38,Trinidad Vanesa Irizarry Carranza,28,24012.68,0,Frecuente
+39,Mariano Hernádez,23,17200.86,1,Ocasional
+40,Lic. Elvira Fajardo,37,26313.35,2,Premium
+41,Juan Balderas Matías,29,17371.45,1,Ocasional
+42,Sr. Hernán Ureña,18,13801.74,1,Ocasional
+43,Sr. Hugo Negrón,39,24396.5,0,Frecuente
+44,Emiliano Palomino,65,36159.1,2,Premium
+45,Natalia Valles,31,16681.03,1,Ocasional
+46,Dr. José Gallardo,37,21980.09,0,Frecuente
+47,Eduardo Sanches,49,26157.32,2,Premium
+48,Cristian Menéndez Villarreal,31,23595.26,0,Frecuente
+49,Alberto Porfirio Rincón,39,28423.37,2,Premium
+50,Eloisa Noelia Marín Córdova,48,29159.17,2,Premium
+51,Clemente Arturo Raya Córdova,30,21708.59,0,Frecuente
+52,Sra. Mercedes Villareal,18,13843.35,1,Ocasional
+53,Dr. Rufino Solís,22,14817.54,1,Ocasional
+54,Mateo Sisneros,41,28523.2,2,Premium
+55,Jorge Melgar Mireles,23,13109.67,1,Ocasional
+56,Caridad Julia Orosco,31,20017.06,0,Frecuente
+57,Dr. Emilio Arguello,37,25639.34,2,Premium
+58,Clemente Emiliano Rojo Ornelas,24,21091.0,0,Frecuente
+59,Dulce María Rosa Muñiz,22,12528.71,1,Ocasional
+60,José Eduardo Huerta,45,29304.66,2,Premium
+61,Reina Ana Caballero Collazo,27,21738.51,0,Frecuente
+62,Karla Antonia Godínez,33,20337.24,0,Frecuente
+63,Julia Mota Arce,28,22041.49,0,Frecuente
+64,Srita. Soledad Peña,27,20775.6,0,Frecuente
+65,Jorge Luis Mariano Pichardo,19,10257.81,1,Ocasional
+66,Judith Treviño Villa,38,19224.77,0,Frecuente
+67,Gonzalo Francisco Escamilla,27,22003.15,0,Frecuente
+68,Luis Manuel Bañuelos,31,23186.58,0,Frecuente
+69,Hilda Moreno,14,10611.76,1,Ocasional
+70,Leonardo Apodaca del Río,16,13236.24,1,Ocasional
+71,Asunción Rolón,34,23073.05,0,Frecuente
+72,Mitzy Eloisa Velasco Jiménez,35,22931.93,0,Frecuente
+73,Lic. Carolina Quintana,31,23417.97,0,Frecuente
+74,Benito Carrillo Palomino,33,18270.21,0,Frecuente
+75,Cristian Zacarías Gamboa Mata,39,24320.03,0,Frecuente
+76,Humberto Rincón,30,20410.47,0,Frecuente
+77,Cristal de León Villanueva,26,16398.57,1,Ocasional
+78,Alonso Daniel Barraza,22,15701.3,1,Ocasional
+79,Carla Patricia Luevano,29,17440.12,1,Ocasional
+80,Humberto Heredia,37,27348.66,2,Premium
+81,Jerónimo Gustavo Quintanilla,20,12329.78,1,Ocasional
+82,Dr. José Manuél Loera,27,21346.97,0,Frecuente
+83,Mauricio Ramón Carbajal Roybal,42,27679.65,2,Premium
+84,Augusto Velásquez,38,26929.84,2,Premium
+85,Marisela Reyes,37,25740.88,2,Premium
+86,Ing. René Carreón,23,14185.4,1,Ocasional
+87,Adalberto de la Garza Jasso,27,19130.21,0,Frecuente
+88,Noemí Ana Sanches,34,22023.3,0,Frecuente
+89,Horacio Eric Pizarro,31,19908.85,0,Frecuente
+90,César Octavio Maestas Zaragoza,18,13435.55,1,Ocasional
+91,Isaac José Manuél Barrientos,33,22496.67,0,Frecuente
+92,Olivia Citlali Regalado,36,27330.78,2,Premium
+93,Lic. Nelly Acevedo,22,10702.17,1,Ocasional
+94,René Esteban Baca Alonso,31,18711.48,0,Frecuente
+95,Rosalia Pilar Villareal Camarillo,21,13231.4,1,Ocasional
+96,Nayeli Durán Jasso,14,11186.23,1,Ocasional
+97,Modesto Rael,38,27810.36,2,Premium
+98,Francisco Muñiz Jaimes,31,18039.56,0,Frecuente
+99,Víctor Daniel Aparicio Quiñones,35,18643.23,0,Frecuente
+100,Conchita Georgina Coronado,45,37270.79,2,Premium
+101,Ing. Amador Jaime,39,24118.83,0,Frecuente
+102,Jorge Navarro,25,17799.31,0,Frecuente
+103,Luz Vera,25,20976.58,0,Frecuente
+104,Ing. Margarita Garza,40,27352.36,2,Premium
+105,Lilia Diana Tovar,42,31663.33,2,Premium
+106,Lic. César Granado,45,25846.69,2,Premium
+107,Esther Karla Alfaro,30,20711.34,0,Frecuente
+108,Ing. Eric Blanco,19,13547.19,1,Ocasional
+109,Gerónimo César Tórrez Valadez,38,30666.0,2,Premium
+110,Rebeca Abril Moreno Zavala,26,16655.8,1,Ocasional
+111,Santiago Ulibarri Contreras,25,16213.89,1,Ocasional
+112,David Gerardo Moreno Sanches,18,14095.41,1,Ocasional
+113,Liliana Acevedo,39,27658.82,2,Premium
+114,José Luis Sarabia,26,18705.27,0,Frecuente
+115,Nadia Francisca Hurtado Sevilla,36,26458.19,2,Premium
+116,Lic. Daniel Curiel,31,23954.02,0,Frecuente
+117,Esmeralda Abigail Rojas,35,25089.63,0,Frecuente
+118,Wilfrido Carrión,18,13419.35,1,Ocasional
+119,María Cristina Ariadna Nájera,18,15808.02,1,Ocasional
+120,Hilda Marcela Beltrán Zamora,17,10910.87,1,Ocasional
+121,Aida Salma Negrete,36,25933.77,2,Premium
+122,Marisol Alejandra Concepción,18,14594.82,1,Ocasional
+123,Clara Inés Soria Valencia,44,32432.39,2,Premium
+124,Isaac René Sarabia,20,13077.67,1,Ocasional
+125,Ing. Susana Viera,44,24418.26,0,Frecuente
+126,Camilo Guillen,20,10850.34,1,Ocasional
+127,Ramón Gamboa,23,13866.27,1,Ocasional
+128,Salma Clara Carranza Dueñas,19,8987.56,1,Ocasional
+129,Renato Reyna Ballesteros,36,25738.42,2,Premium
+130,Dra. Antonia Gaona,34,22649.55,0,Frecuente
+131,Sergio Zacarías Marrero Mireles,43,27624.8,2,Premium
+132,Blanca Bermúdez,23,15822.21,1,Ocasional
+133,Leticia Carolina Paz Pérez,26,13551.65,1,Ocasional
+134,Caridad Matías Gómez,25,15730.2,1,Ocasional
+135,Mariano Montenegro Duarte,15,9873.43,1,Ocasional
+136,Ángel Alvaro Pantoja,45,35490.18,2,Premium
+137,Rosalia Llamas Casas,13,12066.15,1,Ocasional
+138,Miguel Ángel Emiliano Segura Zamudio,20,13003.75,1,Ocasional
+139,Víctor Gabriel Bustos,21,12107.79,1,Ocasional
+140,Mauricio Corrales Solorio,27,21188.61,0,Frecuente
+141,Leonardo Cristobal Zarate,12,11927.74,1,Ocasional
+142,Lourdes Zúñiga Godínez,18,13357.5,1,Ocasional
+143,Ing. Alejandro Cintrón,41,33979.52,2,Premium
+144,Juan Carlos Ramón,24,15209.01,1,Ocasional
+145,Adán Garrido,40,27288.07,2,Premium
+146,Sra. Estela Páez,19,9308.89,1,Ocasional
+147,Dolores Guerrero Romero,37,29307.36,2,Premium
+148,Aldonza Marisol Montañez,35,24441.89,0,Frecuente
+149,Estela Caridad Casárez Gómez,20,16202.82,1,Ocasional
+150,Srita. Zoé Acuña,25,20260.85,0,Frecuente
+151,María Teresa Tamez Orta,25,16128.15,1,Ocasional
+152,Omar Villarreal Pacheco,32,20937.04,0,Frecuente
+153,Natividad Mónica Reynoso Roque,34,26427.99,2,Premium
+154,Miguel Nevárez Candelaria,36,22916.98,0,Frecuente
+155,Sr. Espartaco Uribe,28,19362.64,0,Frecuente
+156,Abelardo Rubén Cruz Alvarado,41,27498.57,2,Premium
+157,Yeni Salas,23,13644.55,1,Ocasional
+158,Ing. Porfirio Moreno,21,15222.1,1,Ocasional
+159,Marcos Valles Lovato,30,23648.17,0,Frecuente
+160,Gustavo Pablo Vázquez,32,21214.58,0,Frecuente
+161,Ing. Amelia Urbina,30,23451.94,0,Frecuente
+162,Daniela Sandoval,29,21508.81,0,Frecuente
+163,Juan Carlos Gollum,32,22271.01,0,Frecuente
+164,Abel Jaime Vaca,33,23011.16,0,Frecuente
+165,Mauricio Mario Rendón Maya,33,27017.7,2,Premium
+166,Esparta Martha Benítez,40,27144.36,2,Premium
+167,Lic. Carlos Olvera,39,28192.98,2,Premium
+168,Ramiro Juan Carlos Chavarría,31,20060.87,0,Frecuente
+169,Lic. Uriel Sarabia,28,16860.01,1,Ocasional
+170,Víctor Covarrubias Ureña,34,28429.63,2,Premium
+171,Lourdes Mayte Barajas,21,13882.04,1,Ocasional
+172,Perla Cornejo Valdés,35,29868.1,2,Premium
+173,Ing. Augusto Esquibel,40,21238.4,0,Frecuente
+174,Guillermina Gaitán,20,12063.26,1,Ocasional
+175,Cristian Domínguez Cantú,28,13977.18,1,Ocasional
+176,Judith Carrión Soto,24,16470.14,1,Ocasional
+177,Sr. Joaquín Otero,20,12145.76,1,Ocasional
+178,Dra. Zoé Vigil,29,19482.06,0,Frecuente
+179,Ing. Alta  Gracia Paredes,23,14714.99,1,Ocasional
+180,Sr. Víctor Ibarra,17,9761.14,1,Ocasional
+181,Joaquín Mateo,27,21763.81,0,Frecuente
+182,Sra. Antonia Ledesma,28,10118.91,1,Ocasional
+183,Leonardo Maximiliano Flórez Valverde,36,27554.82,2,Premium
+184,Wendolin Vega,20,15004.16,1,Ocasional
+185,Camila Archuleta,30,24931.3,0,Frecuente
+186,Alfonso Pichardo Montez,36,28028.85,2,Premium
+187,Lic. Soledad Correa,16,8712.21,1,Ocasional
+188,Mónica Ángela Castro Palomino,40,26549.85,2,Premium
+189,Tomás Fernando Dávila Villegas,25,18310.46,0,Frecuente
+190,Manuel Cristobal Garza Romero,20,10722.64,1,Ocasional
+191,Ing. Eric Casillas,44,28729.52,2,Premium
+192,Ramiro Benito Valencia Benavides,22,15276.95,1,Ocasional
+193,Sr. Bruno Muñiz,26,22253.71,0,Frecuente
+194,José Rivero de Jesús,29,19506.45,0,Frecuente
+195,Vicente Ulloa Canales,12,11951.56,1,Ocasional
+196,Nancy Caridad Jimínez,31,18284.75,0,Frecuente
+197,Judith Meléndez,15,8881.59,1,Ocasional
+198,Maximiliano Gustavo Valencia,31,22745.29,0,Frecuente
+199,Humberto Caldera,37,27433.08,2,Premium
+200,Leonardo Abraham Arroyo,29,14651.58,1,Ocasional
